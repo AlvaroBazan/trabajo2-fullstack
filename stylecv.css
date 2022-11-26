@@ -62,7 +62,6 @@ h2 {
     display: inline-block;
     text-align: justify;
   }
-
 .hero{
     height: 350px;
     background-color: #2b2d42;
@@ -81,7 +80,6 @@ h2 {
     height: 70px;
     align-items: center;
 }
-
 .header a{
     color: white;
     text-decoration: none;
@@ -89,11 +87,9 @@ h2 {
 .header ul{
     display: flex;
     height: inherit;
-
 }
 .header ul li{
     height: inherit;
-
 }
 .header a {
     display: block;
@@ -111,7 +107,6 @@ ol, ul{
     padding: 0;
     list-style: none;
 }
-
 .footer{
     background-color: #1b2127;
     color: white;
@@ -131,12 +126,4 @@ ol, ul{
     justify-content: inherit;
     align-items: inherit;
     height: inherit;
-}
-/*
-Esto sirve para colocar elementos uno al lado del otro.
-Flexbox tendrá a muchos box dentro, y de esta forma ocuparán el espacio horizontalmente, hasta que no
-quepan, y ahí seguirán abajo.-
-
-
-
 }
