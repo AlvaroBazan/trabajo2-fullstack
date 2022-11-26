@@ -84,12 +84,15 @@ h2 {
     color: white;
     text-decoration: none;
 }
+
 .header ul{
     display: flex;
     height: inherit;
 }
+
 .header ul li{
     height: inherit;
+
 }
 .header a {
     display: block;
@@ -98,15 +101,18 @@ h2 {
     align-items: center;
     padding: 0 10px;
 }
+
 .menu{
     height: inherit;
 }
+
 ol, ul{
     /* Sacamos margenes */
     margin: 0;
     padding: 0;
     list-style: none;
 }
+
 .footer{
     background-color: #1b2127;
     color: white;
@@ -115,9 +121,11 @@ ol, ul{
     justify-content: space-between;
     padding: 0 10px;
 }
+
 .footer a{
     color: white;
 }
+
 .wrapper{
     width: 1000px;
     margin: 0 auto;
